@@ -57,7 +57,6 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  background-image:"photos/Teaching.jpg";
 }
 
 blockquote {
@@ -201,7 +200,6 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    background-image:"photos/Teaching.jpg";
   }
 
   header, section, footer {
