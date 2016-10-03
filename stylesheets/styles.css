@@ -6,7 +6,7 @@ body {
   font-weight:400;
 }
 
-img.resize {
+img.resize{
   max-height:50%;
   max-width:50%;
 }
