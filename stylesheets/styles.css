@@ -200,7 +200,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    background-image:url("photos/Teaching.jpg");
+    background-image:"photos/Teaching.jpg";
   }
 
   header, section, footer {
