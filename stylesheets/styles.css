@@ -57,6 +57,7 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  background-image:"photos/Teaching.jpg";
 }
 
 blockquote {
